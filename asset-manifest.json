@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yurim_movie_app/static/css/main.fb7042e6.chunk.css",
+    "main.js": "/yurim_movie_app/static/js/main.6c491168.chunk.js",
+    "main.js.map": "/yurim_movie_app/static/js/main.6c491168.chunk.js.map",
+    "runtime-main.js": "/yurim_movie_app/static/js/runtime-main.be36fe75.js",
+    "runtime-main.js.map": "/yurim_movie_app/static/js/runtime-main.be36fe75.js.map",
+    "static/js/2.5e6efdf7.chunk.js": "/yurim_movie_app/static/js/2.5e6efdf7.chunk.js",
+    "static/js/2.5e6efdf7.chunk.js.map": "/yurim_movie_app/static/js/2.5e6efdf7.chunk.js.map",
+    "index.html": "/yurim_movie_app/index.html",
+    "precache-manifest.fc2194194b1739587c862aa9624ac0cf.js": "/yurim_movie_app/precache-manifest.fc2194194b1739587c862aa9624ac0cf.js",
+    "service-worker.js": "/yurim_movie_app/service-worker.js",
+    "static/css/main.fb7042e6.chunk.css.map": "/yurim_movie_app/static/css/main.fb7042e6.chunk.css.map",
+    "static/js/2.5e6efdf7.chunk.js.LICENSE.txt": "/yurim_movie_app/static/js/2.5e6efdf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be36fe75.js",
+    "static/js/2.5e6efdf7.chunk.js",
+    "static/css/main.fb7042e6.chunk.css",
+    "static/js/main.6c491168.chunk.js"
+  ]
+}
